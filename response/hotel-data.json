@@ -1,0 +1,23 @@
+{
+    "booking_website":      "www.astraimperium.com",
+
+    "billing_email":        "billing@astragroup.com",
+    "support_email":        "support@astragroup.com",
+    "events_email":         "events@astragroup.com",
+    "quality_email":        "quality@astragroup.com",
+    "bookings_email":       "bookings@astragroup.com",
+    
+    "frontdesk_phone":      "+603-5555-0100",
+    "events_phone":         "+603-5555-0200",
+
+    "check_in_time":        "3:00 PM",
+    "check_out_time":       "12:00 PM",
+
+    "security_deposit":     100,
+    "late_checkout_fee":    50,
+    "parking_price":        20,
+    "pet_fee":              50,
+    "sedan_price":          80,
+    "van_price":            120,
+    "smoking_penalty":      500
+}

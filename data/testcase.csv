@@ -1,0 +1,37 @@
+input,expected_intent
+"My flight got rescheduled,can I keep the room for one more day?",add_night
+"idk how to book a room the text are too confusing",book_hotel
+"I'm driving a large SUV,will there be a spot for it?",book_parking_space
+"I'm bringing my cat along,is it possible?",bring_pets
+"I have to scrap my trip, what shud i do?",cancel_hotel_reservation
+"If I cancer booking now, how much will I lose?",cancellation_fees
+"Something happend,I need to shift my stay to next month.",change_hotel_reservation
+"We are bringing a babi, 1 years old, is there any facilities for him?",check_child_policy
+"What is ur purpose?",check_functions
+"I need to burn off some calories,you guys have gym?",check_hotel_facilities
+"Are there any special promos running for the school holidays?",check_hotel_offers
+"How much for a night in the Deluxe room?",check_hotel_prices
+"I just want to verify that my booking actually exists.",check_hotel_reservation
+"We just landed at KLIA,how soon can we check ni?",check_in
+"I left my charger in room 304,can someone check?",check_lost_item
+"Can I see the digital menu for the StarHill restaurant?",check_menu
+"We have a free evening,any nice spots to visit nearby?",check_nearby_attractions
+"We are packing up now,we just need to settle the final bill.",check_out
+"Do you accept TnG eWallet or is it cash only?",check_payment_methods
+"Helo, got room left ah?",check_room_availability
+"There are so many room options, what is the diffence?",check_room_type
+"Is there a designated spot for smoking,or is the whole hotel smoke-free?",check_smoking_policy
+"What is the font desk number again?",customer_service
+"I am not sastified with a waiter attitude his name is John",file_complaint
+"I haven't seen the money return to my card yet.",get_refund
+"Catch you later then :D",goodbye
+"Morning!",greeting
+"We are looking to organize a workshop for 20 pax,do you have a hall?",host_event
+"Useless, I'd want to speak to a flesh-and-blood prson!",human_agent
+"My company needs a receipt for expense reporting.",invoices
+"I'd love to share some feedback about how great the service was.",leave_review
+"Can I use my loyalty rewards for this stay?",redeem_points
+"Where is the location I cant find it on the mapp!",search_hotel
+"What is the price for a private car transfer from the airport?",shuttle_service
+"We have 1 hour until check in, can we drop our bags first?",store_luggage
+"How do I cook Nasi Lemak?",unknown_intent
